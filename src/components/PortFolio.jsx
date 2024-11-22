@@ -5,7 +5,7 @@ import mongoDB from "../../public/mongodb.jpg";
 import express from "../../public/express.png";
 import reactjs from "../../public/reactjs.png";
 import nodejs from "../../public/node.png";
-function PortFolio() {
+function Portfolio() {
   const cardItem = [
     {
       id: 1,
@@ -78,4 +78,4 @@ function PortFolio() {
   );
 }
 
-export default PortFolio;
+export default Portfolio;
